@@ -30,10 +30,11 @@ section {
 
 section h3 {
     margin-left: 0.25rem;
+    color: dimgray;
 }
 
 section p {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     align-items: center;
     margin: 0 auto;
 }
